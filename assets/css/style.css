@@ -1,0 +1,8 @@
+.nav-link {
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+  font-size: 18px;
+}
+.carousel-item {
+  max-height: 400px;
+}
